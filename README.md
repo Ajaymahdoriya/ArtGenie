@@ -161,3 +161,27 @@ artgenie/
 │   │   └── userRoutes.js
 │   └── ...
 ```
+Clone the repository and install dependencies:  
+
+bash
+git clone https://github.com/Aashay30/art-genie.git
+cd art-genie
+
+
+### Backend Setup  
+
+bash
+cd server  
+npm install  
+npm start
+
+
+### Frontend Setup  
+
+bash
+cd client  
+npm install  
+npm start  
+
+
+---
