@@ -109,8 +109,7 @@ Create more art seamlessly with the “Generate Another” option.
 ## 📦 Installation  
 
 ## Project Structure
-
-
+```
 artgenie/
 ├── client/
 │   ├── .env
@@ -161,3 +160,4 @@ artgenie/
 │   │   ├── imageRoutes.js
 │   │   └── userRoutes.js
 │   └── ...
+```
