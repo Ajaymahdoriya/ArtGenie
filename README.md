@@ -211,3 +211,15 @@ npm start
 - *Payment Gateway*: Razorpay 💳
 - *Authentication*: JWT and bcrypt 🔑🛡
 - *AI Integration*: Clipdrop API for text-to-image generation 🤖🎨
+
+## 📖 API Documentation
+
+### User Routes
+- POST /api/v1/users/register ✍: Register a new user.
+- POST /api/v1/users/login 🔑: Authenticate a user and return a JWT.
+
+### Image Routes
+- POST /api/v1/images/generate 🎨: Generate an AI image from a text prompt.
+- GET /api/v1/images/:id 📷: Retrieve details of a generated image.
+
+---
