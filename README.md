@@ -46,3 +46,21 @@ Welcome to *Art Genie*, the ultimate web application where you can create breath
 - JWT and bcrypt for authentication  
 
 ---
+## 🛒 How It Works  
+
+1. *Sign Up / Log In* 🔑  
+   Create an account or log in to access the features.  
+
+2. *Enter a Text Prompt* ✍  
+   Describe your idea or vision in words.  
+
+3. *Generate AI Art* 🎨  
+   Click on "Generate" and watch your words turn into stunning artwork!  
+
+4. *Buy Credits* 💳  
+   Purchase more credits directly through Razorpay when needed.  
+
+5. *Download and Share* 🖼  
+   Save your masterpiece or share it with the world!  
+
+---
