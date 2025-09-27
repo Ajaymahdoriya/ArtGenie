@@ -10,3 +10,22 @@ Welcome to *Art Genie*, the ultimate web application where you can create breath
 
 ---
 
+## 🚀 Features  
+
+✨ *Text-to-Image Generation*  
+- Input any text prompt, and let Art Genie transform your words into stunning visuals using Google Gemini AI.  
+
+💳 *Buy Credits Seamlessly*  
+- Purchase more credits to generate additional images using Razorpay's secure payment gateway.  
+
+🔒 *Secure User Authentication*  
+- Your data is safe with us! Authentication is powered by JWT and bcrypt for maximum security.  
+
+💃 *Smooth Animations*  
+- Enjoy a visually engaging experience with seamless transitions and animations using Framer Motion.  
+
+📱 *Responsive Design*  
+- Access Art Genie on any device. Tailwind CSS ensures a stunning, user-friendly interface across all screen sizes.  
+
+---
+
