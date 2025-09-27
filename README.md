@@ -28,4 +28,21 @@ Welcome to *Art Genie*, the ultimate web application where you can create breath
 - Access Art Genie on any device. Tailwind CSS ensures a stunning, user-friendly interface across all screen sizes.  
 
 ---
+## 🛠 Tech Stack  
 
+*Frontend*:  
+- React.js  
+- Tailwind CSS for responsive design and styling  
+- Framer Motion for animations  
+
+*Backend*:  
+- Node.js  
+- Express.js  
+- MongoDB + Mongoose  
+
+*Other Tools*:  
+- Clipdrop API for AI-generated images  
+- Razorpay for payments  
+- JWT and bcrypt for authentication  
+
+---
